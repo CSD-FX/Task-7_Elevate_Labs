@@ -4,6 +4,9 @@
 
 Set up **Netdata** to monitor and visualize system resources and application performance metrics in real-time. This will help in understanding lightweight monitoring for servers and applications running in Docker.
 
+![Dashboard 1](images/Dashboard-1.png)
+![Dashboard 2](images/Dashboard-2.png)
+
 ---
 
 ## 🛠️ Tools Used
@@ -41,6 +44,10 @@ Example (local machine):
 
 * **Screenshot of the Netdata dashboard**
 * **Visible metrics** (CPU, RAM, Disk, Docker containers, etc.)
+
+
+![Dashboard 3](images/Dashboard-3.png)
+
 
 ---
 
